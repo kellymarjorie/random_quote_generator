@@ -1,0 +1,34 @@
+body {
+  background: url("background.jpg") no-repeat fixed;
+  background-size: cover;
+  position: relative;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+.row {
+  text-align: center;
+}
+
+.well {
+  background-color: rgba(175, 190, 143, 0.8);
+  border-color: #646F58;
+}
+
+.btn {
+  background-color: #646F58;
+  color: #8FBB99;
+  font-family: 'Raleway', sans-serif;
+}
+
+.btn:visited, .btn:hover, .btn:focus, .btn:active {
+  color: #8FBB99;
+  outline: none !important;
+}
+
+p {
+  margin-top: 30px;
+  font-weight: bold;
+}
